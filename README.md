@@ -1,5 +1,6 @@
 # Reconocimiento de defectos topológicos mediante Mask RCNN
-Visión computacional para la detención de defectos topológicos en cristales líquidos usando Mask RCNN
+Visión computacional para la detención de defectos topológicos en cristales líquidos usando Mask RCNN.
+
 Este proyecto académico se enfocó en la segmentación semántica de imágenes generadas por una simulación de cristales líquidos en un medio continuo utilizando MaskRCNN. Los repositorios base del proyecto incluyen una implementación para Tensorflow 1, una actualización para Tensorflow 2 y un tercer repositorio que incorpora un ejemplo práctico. Se llevaron a cabo modificaciones en todos los repositorios para permitir la detección en la simulación de cristales líquidos.
 
 ```
